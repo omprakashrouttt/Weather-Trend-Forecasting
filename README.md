@@ -17,6 +17,7 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/Weather-Trend-Forecasting.git
 
-2.Navigate to the project directory:
-  cd Weather-Trend-Forecasting
+2. Navigate to the project directory:
+```bash
+cd Weather-Trend-Forecasting
 
